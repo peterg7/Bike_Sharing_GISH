@@ -22,4 +22,6 @@ Focusing on the proposal through the lens of demographics can lead to a streamli
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/bike_share_analysis/CitiBikeNarrative?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes'></iframe>
 
+<center><iframe src="https://public.tableau.com/views/bike_share_analysis/CitiBikeNarrative?:embed=yes&:display_count=y&publish=yes&:origin=viz_share_link" width="650" height="450" frameborder="0"></iframe></center>
+
 
