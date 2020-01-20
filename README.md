@@ -40,13 +40,11 @@ Focusing on the proposal through the lens of demographics can lead to a streamli
 		<param name='display_count' value='yes' />
 	</object>
 </div>   
-<div>             
-	<script type='text/javascript'>
+<script src="https://public.tableau.com/javascripts/api/viz_v1.js" type='text/javascript'>
 		var divElement = document.getElementById('viz1579501577324');
 		var vizElement = divElement.getElementsByTagName('object')[0];
 		vizElement.style.width='1016px';vizElement.style.height='991px';
 		var scriptElement = document.createElement('script');
 		scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 		vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-	</script>
-</div>
+</script>
