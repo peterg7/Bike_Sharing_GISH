@@ -5,11 +5,11 @@ New York City is a densily populated city with lots of traffic. Especially as a 
 
 ## Resources
 Data:
-	- `201908-citibike-tripdata.csv`
-	- `city_comparison_data.csv`
+- `201908-citibike-tripdata.csv`
+- `city_comparison_data.csv`
 
 Software:
-	- Tableau 2019.4.1
+- Tableau 2019.4.1
 
 ## Summary
 To start off the analysis and get comfortable with the data, the total number of trips during August 2019, the proportion of short term customers to annual subscribers, and the peak riding hours were determined. Next, the geographical data was visualized by plotting the top starting and ending locations of riders. Finally, to get a sense of the mechanical stress of running a bike sharing company, the data was analyzed to show when bikes were due for repair and their individual utilization. 
@@ -20,6 +20,6 @@ It's time to put together a story to tell potential investors. Using the previou
 ## Challenge Summary
 Focusing on the proposal through the lens of demographics can lead to a streamlined way of presenting the analysis. The New York City Citi Bike data suggest that commuters make up the primary market for the ride sharing company. Des Moines has a higher employment density and covers about a third of the land area compared to New York City. This shows that based on demographics, there is a significant market for a bike sharing company in Des Moines.
 
-<iframe src="https://public.tableau.com/views/bike_share_analysis/CitiBikeNarrative?:display_count=y&publish=yes&:origin=viz_share_link" width = '650' height = '450'></iframe>
+<iframe src="https://public.tableau.com/views/bike_share_analysis/CitiBikeNarrative?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
 
 
