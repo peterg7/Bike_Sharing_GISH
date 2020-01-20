@@ -19,12 +19,12 @@ It's time to put together a story to tell potential investors. Using the previou
 
 ## Challenge Summary
 Focusing on the proposal through the lens of demographics can lead to a streamlined way of presenting the analysis. The New York City Citi Bike data suggest that commuters make up the primary market for the ride sharing company. Des Moines has a higher employment density and covers about a third of the land area compared to New York City. This shows that based on demographics, there is a significant market for a bike sharing company in Des Moines.
-<div>
+
 <div class='tableauPlaceholder' id='viz1579501577324' style='position: relative'>
 	<noscript>
-	<a href='#'>
-		<img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;bi&#47;bike_share_analysis&#47;CitiBikeNarrative&#47;1_rss.png' style='border: none' />
-	</a>
+		<a href='#'>
+			<img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;bi&#47;bike_share_analysis&#47;CitiBikeNarrative&#47;1_rss.png' style='border: none' />
+		</a>
 	</noscript>
 	<object class='tableauViz'  style='display:none;'>
 		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
@@ -39,13 +39,14 @@ Focusing on the proposal through the lens of demographics can lead to a streamli
 		<param name='display_overlay' value='yes' />
 		<param name='display_count' value='yes' />
 	</object>
-</div>                
-<script type='text/javascript'>
-	var divElement = document.getElementById('viz1579501577324');
-	var vizElement = divElement.getElementsByTagName('object')[0];
-	vizElement.style.width='1016px';vizElement.style.height='991px';
-	var scriptElement = document.createElement('script');
-	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-	vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+</div>   
+<div>             
+	<script type='text/javascript'>
+		var divElement = document.getElementById('viz1579501577324');
+		var vizElement = divElement.getElementsByTagName('object')[0];
+		vizElement.style.width='1016px';vizElement.style.height='991px';
+		var scriptElement = document.createElement('script');
+		scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+		vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+	</script>
 </div>
