@@ -20,6 +20,6 @@ It's time to put together a story to tell potential investors. Using the previou
 ## Challenge Summary
 Focusing on the proposal through the lens of demographics can lead to a streamlined way of presenting the analysis. The New York City Citi Bike data suggest that commuters make up the primary market for the ride sharing company. Des Moines has a higher employment density and covers about a third of the land area compared to New York City. This shows that based on demographics, there is a significant market for a bike sharing company in Des Moines.
 
-<iframe src="https://public.tableau.com/views/bike_share_analysis/CitiBikeNarrative?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/bike_share_analysis/CitiBikeNarrative?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes'></iframe>
 
 
